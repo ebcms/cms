@@ -2,6 +2,7 @@
     "name": "ebcms/cms",
     "description": "ebcms cms",
     "license": "GPL-3.0",
+    "type": "psrapp",
     "require": {
         "psrphp/admin": "^1.0"
     },
